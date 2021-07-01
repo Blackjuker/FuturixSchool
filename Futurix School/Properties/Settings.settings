@@ -1,0 +1,52 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Futurix_School_Prim_En.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="open_schoolConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;server=localhost;user id=root;database=open_school&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;MySql.Data.MySqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">server=localhost;user id=root;database=open_school</Value>
+    </Setting>
+    <Setting Name="primaire_fr" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;server=192.168.100.58;user id=FuturixSchool Pwd=Blackjuker2021;database=open_school_prim_fr&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">server=192.168.100.58;user id=FuturixSchool Pwd=Blackjuker2021;database=open_school_prim_fr</Value>
+    </Setting>
+    <Setting Name="primaire_en" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;server=192.168.100.58;user id=FuturixSchool Pwd=Blackjuker2021;database=open_school_prim_en&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">server=192.168.100.58;user id=FuturixSchool Pwd=Blackjuker2021;database=open_school_prim_en</Value>
+    </Setting>
+    <Setting Name="college_fr" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;server=192.168.100.58;user id=FuturixSchool Pwd=Blackjuker2021;database=open_school&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">server=192.168.100.58;user id=FuturixSchool Pwd=Blackjuker2021;database=open_school</Value>
+    </Setting>
+    <Setting Name="college_en" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;server=192.168.100.58;user id=FuturixSchool Pwd=Blackjuker2021;database=open_school_en&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">server=192.168.100.58;user id=FuturixSchool Pwd=Blackjuker2021;database=open_school_en</Value>
+    </Setting>
+    <Setting Name="college_tech_fr" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;server=192.168.100.58;user id=FuturixSchool Pwd=Blackjuker2021;database=open_school_tech_fr&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">server=192.168.100.58;user id=FuturixSchool Pwd=Blackjuker2021;database=open_school_tech_fr</Value>
+    </Setting>
+    <Setting Name="college_tech_en" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">server=192.168.100.58;user id=FuturixSchool Pwd=Blackjuker2021;database=open_school_tech_en</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
